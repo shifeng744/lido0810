@@ -194,7 +194,9 @@ html, body { width: 100%; height: 100%; }
 
 .project-info-wrap { margin-top: 85px; text-align: left; float: right; width: 310px; height: 405px; padding: 55px 75px; background: #2b2d37; box-shadow: 0 0 10px #2b2d37; color: #d9b068; position: relative; }
 
-.p-pro-title { font-size: 20px; margin: 20px 0 30px; font-weight: bold; }
+.project-info-wrap img { position: absolute; left: 76px; top: 52px; }
+
+.p-pro-title { font-size: 20px; margin: 86px 0 30px; font-weight: bold; }
 
 .btn-move { padding: 10px 35px; background: #d9b068; color: #000; position: absolute; bottom: 55px; left: 75px; }
 

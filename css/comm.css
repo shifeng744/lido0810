@@ -96,7 +96,8 @@ body,html{width:100%;height:100%}
 .projects-list li{margin:8px 0}
 .project-name{margin-top:85px;padding-left:90px;font-size:40px;float:left;text-align:left;font-weight:700}
 .project-info-wrap{margin-top:85px;text-align:left;float:right;width:310px;height:405px;padding:55px 75px;background:#2b2d37;box-shadow:0 0 10px #2b2d37;color:#d9b068;position:relative}
-.p-pro-title{font-size:20px;margin:20px 0 30px;font-weight:700}
+.project-info-wrap img{position:absolute;left:76px;top:52px}
+.p-pro-title{font-size:20px;margin:86px 0 30px;font-weight:700}
 .btn-move{padding:10px 35px;background:#d9b068;color:#000;position:absolute;bottom:55px;left:75px}
 .partners-info-wrap{text-align:center;width:320px;height:420px;box-shadow:0 4px 12px 0 rgba(0,0,0,.2);color:#d9b068;background:#fff}
 .piw-top{width:100%;height:235px;background:#2b2d37}
