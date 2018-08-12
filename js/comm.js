@@ -30,14 +30,14 @@ var Marke = {
 			paginationClickable: true,
 			slidesPerView: "auto",
 			onSlideChangeStart: function(swiper) {
-				if(swiper.activeIndex >= 1) {
-					$(".p-btn-l").fadeIn();
-					$(".p-btn-r").fadeOut();
-				} else {
-					$(".p-btn-l").fadeOut();
-					$(".p-btn-r").fadeIn();
-
-				}
+//				if(swiper.activeIndex >= 1) {
+//					$(".p-btn-l").fadeIn();
+//					$(".p-btn-r").fadeOut();
+//				} else {
+//					$(".p-btn-l").fadeOut();
+//					$(".p-btn-r").fadeIn();
+//
+//				}
 			}
 		})
 		//新闻

@@ -28,17 +28,16 @@ body,html{width:100%;height:100%}
 .mc2.animaiton h3:before{animation:line_120 1s forwards}
 .mc2.animaiton .text-info:after{animation:line_200 1s forwards}
 .mc3.animaiton .projects-list:after{animation:line_110 1s forwards}
-.p-title{margin-top:130px;font-size:64px;text-align:left}
+.p-title{margin-top:120px;font-size:64px;text-align:left;font-weight:700}
 .arrow_left,.arrow_right{z-index:999;font-size:30px;color:#000;line-height:72px}
-.arrow_left.p-btn-l,.arrow_right.p-btn-l{display:none}
 .arrow_right{position:absolute;right:-160px;top:50%;margin-top:12px}
-.arrow_left{position:absolute;left:-160px;top:50%;margin-top:-36px}
+.arrow_left{position:absolute;left:-160px;top:50%;margin-top:12px}
 .swiper-container{color:#000;text-align:center;max-width:1920px;max-height:1080px;margin:0}
 .swiper-slide{width:100%;height:100%}
 .partners-swiper{height:437px;width:1680px;padding-top:100px;margin:0;position:relative}
 .partners-swiper .swiper-container{height:450px}
 .partners-swiper .swiper-slide{width:320px;height:420px;padding-right:56px}
-.organization-swiper{width:1440px;height:574px;padding-top:130px;text-align:left}
+.organization-swiper{width:1440px;height:574px;padding-top:90px;text-align:left}
 .organization-swiper h3{position:relative;width:360px;float:left;font-size:56px}
 .organization-swiper h3:before{position:absolute;content:"";width:1px;right:0;top:0;background:#000}
 .organization-swiper h3:after{content:'';font-size:154px;color:#f5f5f5;width:222px;height:120px;text-align:center;list-style:initial;position:absolute;bottom:-26px;left:0;z-index:-1}
@@ -71,16 +70,16 @@ body,html{width:100%;height:100%}
 .news-info{width:273px;height:300px;padding:45px 40px 50px;position:absolute;right:230px;bottom:0;background:#fff;box-shadow:0 4px 16px 0 rgba(0,0,0,.12)}
 .news-info h3{font-size:32px;margin-bottom:30px}
 .news-info a{padding:15px 60px;background:#d9b068;color:#000;position:absolute;bottom:50px;left:45px}
-.nav{min-width:1455px;height:64px;position:absolute;top:0;left:50%;margin-left:-727.5px;z-index:999;background:#fff}
-.logo{float:left;line-height:64px}
+.nav{min-width:1455px;height:56px;position:absolute;top:0;left:50%;margin-left:-727.5px;z-index:999;background:#fff}
+.logo{float:left;line-height:56px}
 .logo img{height:40px;vertical-align:middle}
 .nav-list{float:right;font-size:0}
 .nav-list li{display:inline-block;margin:0 25px}
 .nav-list li.on,.nav-list li:hover{border-bottom:2px solid #d9b068}
 .nav-list li.on a,.nav-list li:hover a{color:#d9b068}
-.nav-list a{font-size:16px;display:inline-block;padding:0 16px;color:#000;line-height:64px}
-.footer{height:200px;width:100%;background:#fff;text-align:center;color:#999;position:absolute;bottom:0;left:0}
-.footer p:first-child{color:#000;padding:75px 0 35px}
+.nav-list a{font-size:16px;display:inline-block;padding:0 16px;color:#000;line-height:56px}
+.footer{height:145px;width:100%;background:#f3f3f3;text-align:center;color:#999;position:absolute;bottom:0;left:0}
+.footer p:first-child{color:#000;padding:60px 0 16px}
 .content-info-list,.content-list{width:100%;margin-top:140px;height:320px;overflow:hidden}
 .content-info-list li,.content-list li{width:33.3%;position:relative;float:left}
 .content-info-list li:before,.content-list li:before{content:"";position:absolute;left:0;top:0;background:#000;width:1px;height:0}

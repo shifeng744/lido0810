@@ -95,6 +95,7 @@ body,
 .ost_box,
 #_overlay_ {
     min-width: 1455px !important;
+
 }
 
 html,
@@ -193,9 +194,10 @@ body {
 }
 
 .p-title {
-    margin-top: 130px;
+    margin-top: 120px;
     font-size: 64px;
     text-align: left;
+    font-weight: bold;
 }
 
 .arrow_left,
@@ -204,9 +206,7 @@ body {
     font-size: 30px;
     color: #000;
     line-height: 72px;
-    &.p-btn-l {
-        display: none;
-    }
+
 }
 
 .arrow_right {
@@ -220,7 +220,7 @@ body {
     position: absolute;
     left: -160px;
     top: 50%;
-    margin-top: -36px;
+    margin-top: 12px;
 }
 
 //swiper css
@@ -257,7 +257,7 @@ body {
 .organization-swiper {
     width: 1440px;
     height: 574px;
-    padding-top: 130px;
+    padding-top: 90px;
     text-align: left;
     h3 {
         position: relative;
@@ -446,7 +446,7 @@ body {
 //顶部固定导航
 .nav {
     min-width: 1455px;
-    height: 64px;
+    height: 56px;
     position: absolute;
     top: 0;
     left: 50%;
@@ -457,7 +457,7 @@ body {
 
 .logo {
     float: left;
-    line-height: 64px;
+    line-height: 56px;
     img {
 
         height: 40px;
@@ -484,15 +484,15 @@ body {
         display: inline-block;
         padding: 0 16px;
         color: #000;
-        line-height: 64px;
+        line-height: 56px;
     }
 }
 
 //页尾
 .footer {
-    height: 200px;
+    height: 145px;
     width: 100%;
-    background: #fff;
+    background: #f3f3f3;
     text-align: center;
     color: #999;
     position: absolute;
@@ -500,7 +500,8 @@ body {
     left: 0;
     p:first-child {
         color: #000;
-        padding: 75px 0 35px;
+
+        padding: 60px 0 16px;
     }
 }
 
@@ -615,6 +616,7 @@ body {
         position: absolute;
           left: 76px;
     top: 52px;
+
     }
 }
 
